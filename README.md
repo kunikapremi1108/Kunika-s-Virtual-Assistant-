@@ -129,4 +129,3 @@ Distributed under the MIT License.
 <div align="center">
   <p>Created with ❤️ by Kunika Premi</p>
 </div>
-```
